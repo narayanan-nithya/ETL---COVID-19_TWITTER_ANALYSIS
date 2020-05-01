@@ -1,0 +1,290 @@
+_id,Country,TotalDeaths,Tweet Counts,Rate
+5eaa1cc384f2ea0f14fef875,Ivory Coast,FALSE,FALSE,10.003
+5eaa1cc384f2ea0f14fef876,DR Congo,FALSE,FALSE,9.415
+5eaa1cc384f2ea0f14fef877,Saint Vincent and the Grenadines,FALSE,FALSE,9.281
+5eaa1cc384f2ea0f14fef878,North Korea,FALSE,FALSE,9.159
+5eaa1cc384f2ea0f14fef879,United States,FALSE,FALSE,8.782
+5eaa1cc384f2ea0f14fef87a,United States Virgin Islands,FALSE,FALSE,8.702
+5eaa1cc384f2ea0f14fef87b,Taiwan,FALSE,FALSE,7.631
+5eaa1cc384f2ea0f14fef87c,Hong Kong,FALSE,FALSE,6.716
+5eaa1cc384f2ea0f14fef87d,Republic of the Congo,FALSE,FALSE,6.701
+5eaa1cc384f2ea0f14fef87e,Micronesia,FALSE,FALSE,6.626
+5eaa1cc384f2ea0f14fef87f,Laos,FALSE,FALSE,6.431
+5eaa1cc384f2ea0f14fef880,Vietnam,FALSE,FALSE,6.354
+5eaa1cc384f2ea0f14fef881,Reunion,FALSE,FALSE,6.256
+5eaa1cc384f2ea0f14fef882,South Korea,FALSE,FALSE,6.111
+5eaa1cc384f2ea0f14fef883,Syria,FALSE,FALSE,5.232
+5eaa1cc384f2ea0f14fef884,Brunei,FALSE,FALSE,4.513
+5eaa1cc384f2ea0f14fef885,Macau,FALSE,FALSE,4.002
+5eaa1cc384f2ea0f14fef886,Palestine,FALSE,FALSE,3.462
+5eaa1cc384f2ea0f14fef828,Cambridge,FALSE,26,FALSE
+5eaa1cc384f2ea0f14fef82f,Johannesburg,FALSE,11,FALSE
+5eaa1cc384f2ea0f14fef831,Scotland,FALSE,11,FALSE
+5eaa1cc384f2ea0f14fef833,Tanzania,FALSE,10,6.387
+5eaa1cc384f2ea0f14fef800,Afghanistan - United Kingdom,FALSE,9,FALSE
+5eaa1cc384f2ea0f14fef82c,"Cuautla, Morelos",FALSE,9,FALSE
+5eaa1cc384f2ea0f14fef827,Bharat,FALSE,8,FALSE
+5eaa1cc384f2ea0f14fef82d,Deutschland,FALSE,8,FALSE
+5eaa1cc384f2ea0f14fef832,South America,FALSE,7,FALSE
+5eaa1cc384f2ea0f14fef874,Venezuela,FALSE,7,7.029
+5eaa1cc384f2ea0f14fef81f,Albania.,FALSE,4,FALSE
+5eaa1cc384f2ea0f14fef7fd,"Abu Dhabi, UAE",FALSE,3,FALSE
+5eaa1cc384f2ea0f14fef830,Russia,FALSE,3,12.785
+5eaa1cc384f2ea0f14fef82e,Iran,FALSE,2,4.866
+5eaa1cc384f2ea0f14fef7fc,Abidjan,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef7fe,Afghanistan ,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef801,Africa,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef820,Algiers                       ,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef822,"Algiers, Algeria",FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef823,Ancona,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef824,Andorra ,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef829,"Canada, Ontario",FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef834,Tehran,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef836,United Kingdom ,FALSE,1,FALSE
+5eaa1cc384f2ea0f14fef7f0,United States of America,56221,FALSE,FALSE
+5eaa1cc384f2ea0f14fef714,Italy,26977,1,10.566
+5eaa1cc384f2ea0f14fef788,Spain,23521,1,9.115
+5eaa1cc384f2ea0f14fef6cd,France,23327,1,9.317
+5eaa1cc384f2ea0f14fef7d9,United Kingdom,21157,1,9.398
+5eaa1cc384f2ea0f14fef68c,Belgium,7207,1,9.789
+5eaa1cc384f2ea0f14fef6e1,Germany,6126,1,11.275
+5eaa1cc384f2ea0f14fef70b,"Iran, Islamic Republic of",5806,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6ab,China,4637,1,7.261
+5eaa1cc384f2ea0f14fef695,Brazil,4603,2,6.503
+5eaa1cc384f2ea0f14fef747,Netherlands,4534,1,8.812
+5eaa1cc384f2ea0f14fef7cd,Turkey,2900,1,5.444
+5eaa1cc384f2ea0f14fef69e,Canada,2840,1,7.758
+5eaa1cc384f2ea0f14fef7bf,Sweden,2274,2,9.165
+5eaa1cc384f2ea0f14fef7c0,Switzerland,1665,18,8.051
+5eaa1cc384f2ea0f14fef73a,Mexico,1434,FALSE,6.039
+5eaa1cc384f2ea0f14fef70d,Ireland,1102,2,6.139
+5eaa1cc384f2ea0f14fef700,India,939,1,7.273
+5eaa1cc384f2ea0f14fef762,Portugal,928,1,10.702
+5eaa1cc384f2ea0f14fef769,Russian Federation,794,FALSE,FALSE
+5eaa1cc384f2ea0f14fef75e,Peru,782,FALSE,5.539
+5eaa1cc384f2ea0f14fef708,Indonesia,765,1,6.51
+5eaa1cc384f2ea0f14fef6c1,Ecuador,663,8,5.121
+5eaa1cc384f2ea0f14fef768,Romania,641,FALSE,13.099
+5eaa1cc384f2ea0f14fef761,Poland,562,FALSE,10.201
+5eaa1cc384f2ea0f14fef685,Austria,549,1,9.896
+5eaa1cc384f2ea0f14fef75f,Philippines,511,1,5.9
+5eaa1cc384f2ea0f14fef62f,Algeria,432,1,4.723
+5eaa1cc384f2ea0f14fef6bd,Denmark,427,FALSE,9.783
+5eaa1cc384f2ea0f14fef718,Japan,385,8,10.646
+5eaa1cc384f2ea0f14fef6c3,Egypt,337,FALSE,5.808
+5eaa1cc384f2ea0f14fef755,Pakistan,292,6,6.934
+5eaa1cc384f2ea0f14fef6c0,Dominican Republic,282,FALSE,6.177
+5eaa1cc384f2ea0f14fef6fe,Hungary,280,FALSE,12.613
+5eaa1cc384f2ea0f14fef6b0,Colombia,253,12,5.606
+5eaa1cc384f2ea0f14fef71f,Korea (South),244,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6bb,Czech Republic,223,FALSE,10.571
+5eaa1cc384f2ea0f14fef7d7,Ukraine,220,FALSE,15.192
+5eaa1cc384f2ea0f14fef753,Norway,205,10,7.979
+5eaa1cc384f2ea0f14fef713,Israel,204,19,5.328
+5eaa1cc384f2ea0f14fef6aa,Chile,198,FALSE,6.215
+5eaa1cc384f2ea0f14fef67e,Argentina,197,FALSE,7.612
+5eaa1cc384f2ea0f14fef6cc,Finland,193,FALSE,9.795
+5eaa1cc384f2ea0f14fef75b,Panama,167,FALSE,5.098
+5eaa1cc384f2ea0f14fef741,Morocco,162,FALSE,5.072
+5eaa1cc384f2ea0f14fef689,Bangladesh,152,FALSE,5.545
+5eaa1cc384f2ea0f14fef776,Saudi Arabia,144,1,3.513
+5eaa1cc384f2ea0f14fef6ef,Greece,136,FALSE,10.924
+5eaa1cc384f2ea0f14fef779,Serbia,125,FALSE,13.194
+5eaa1cc384f2ea0f14fef73c,Moldova,102,FALSE,11.697
+5eaa1cc384f2ea0f14fef72f,Malaysia,99,1,5.139
+5eaa1cc384f2ea0f14fef783,South Africa,90,1,9.494
+5eaa1cc384f2ea0f14fef70c,Iraq,88,FALSE,4.773
+5eaa1cc384f2ea0f14fef72a,Luxembourg,88,FALSE,7.125
+5eaa1cc384f2ea0f14fef780,Slovenia,83,FALSE,10.044
+5eaa1cc384f2ea0f14fef681,Australia,83,1,6.622
+5eaa1cc384f2ea0f14fef7d8,United Arab Emirates,82,FALSE,1.519
+5eaa1cc384f2ea0f14fef68b,Belarus,75,FALSE,12.557
+5eaa1cc384f2ea0f14fef72c,"Macedonia, Republic of",65,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6fc,Honduras,61,FALSE,4.453
+5eaa1cc384f2ea0f14fef692,Bosnia and Herzegovina,60,FALSE,10.8
+5eaa1cc384f2ea0f14fef6b8,Croatia,59,FALSE,13.17
+5eaa1cc384f2ea0f14fef699,Bulgaria,58,FALSE,15.433
+5eaa1cc384f2ea0f14fef69d,Cameroon,58,FALSE,9.191
+5eaa1cc384f2ea0f14fef5da,Afghanistan,57,1,6.393
+5eaa1cc384f2ea0f14fef6b9,Cuba,56,FALSE,9.064
+5eaa1cc384f2ea0f14fef691,Bolivia,53,FALSE,6.789
+5eaa1cc384f2ea0f14fef7c5,Thailand,52,1,7.746
+5eaa1cc384f2ea0f14fef6c7,Estonia,50,FALSE,11.727
+5eaa1cc384f2ea0f14fef69a,Burkina Faso,42,FALSE,8.066
+5eaa1cc384f2ea0f14fef729,Lithuania,41,FALSE,13.737
+5eaa1cc384f2ea0f14fef774,San Marino,41,FALSE,FALSE
+5eaa1cc384f2ea0f14fef74f,Nigeria,40,FALSE,11.771
+5eaa1cc384f2ea0f14fef641,Andorra,40,1,FALSE
+5eaa1cc384f2ea0f14fef7cc,Tunisia,39,FALSE,6.267
+5eaa1cc384f2ea0f14fef67f,Armenia,29,FALSE,9.862
+5eaa1cc384f2ea0f14fef74e,Niger,29,FALSE,8.199
+5eaa1cc384f2ea0f14fef6b5,Congo (Kinshasa),28,FALSE,FALSE
+5eaa1cc384f2ea0f14fef625,Albania,28,1,7.997
+5eaa1cc384f2ea0f14fef782,Somalia,26,FALSE,10.778
+5eaa1cc384f2ea0f14fef71b,Kazakhstan,25,2,7.172
+5eaa1cc384f2ea0f14fef724,Lebanon,24,FALSE,4.419
+5eaa1cc384f2ea0f14fef733,Mali,23,FALSE,9.586
+5eaa1cc384f2ea0f14fef686,Azerbaijan,22,FALSE,6.808
+5eaa1cc384f2ea0f14fef720,Kuwait,22,FALSE,2.787
+5eaa1cc384f2ea0f14fef7bb,Sudan,22,FALSE,7.171
+5eaa1cc384f2ea0f14fef74c,New Zealand,19,FALSE,7.033
+5eaa1cc384f2ea0f14fef77f,Slovakia,18,FALSE,9.968
+5eaa1cc384f2ea0f14fef6f4,Guatemala,15,FALSE,4.741
+5eaa1cc384f2ea0f14fef7f1,Uruguay,15,FALSE,9.47
+5eaa1cc384f2ea0f14fef6ba,Cyprus,15,11,7.075
+5eaa1cc384f2ea0f14fef6bc,Côte d'Ivoire,14,FALSE,FALSE
+5eaa1cc384f2ea0f14fef71c,Kenya,14,FALSE,5.483
+5eaa1cc384f2ea0f14fef77c,Singapore,14,3,4.6
+5eaa1cc384f2ea0f14fef723,Latvia,13,FALSE,14.669
+5eaa1cc384f2ea0f14fef726,Liberia,12,FALSE,7.494
+5eaa1cc384f2ea0f14fef767,Republic of Kosovo,12,FALSE,FALSE
+5eaa1cc384f2ea0f14fef687,Bahamas,11,FALSE,6.817
+5eaa1cc384f2ea0f14fef6ed,Ghana,11,FALSE,7.284
+5eaa1cc384f2ea0f14fef6ff,Iceland,10,FALSE,6.736
+5eaa1cc384f2ea0f14fef738,Mauritius,10,FALSE,8.462
+5eaa1cc384f2ea0f14fef754,Oman,10,FALSE,2.446
+5eaa1cc384f2ea0f14fef7c4,"Tanzania, United Republic of",10,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7f4,Venezuela (Bolivarian Republic),10,FALSE,FALSE
+5eaa1cc384f2ea0f14fef766,Qatar,10,3,1.244
+5eaa1cc384f2ea0f14fef75d,Paraguay,9,FALSE,5.527
+5eaa1cc384f2ea0f14fef778,Senegal,9,FALSE,5.691
+5eaa1cc384f2ea0f14fef6f8,Guyana,8,FALSE,7.52
+5eaa1cc384f2ea0f14fef721,Kyrgyzstan,8,FALSE,6.011
+5eaa1cc384f2ea0f14fef7cb,Trinidad and Tobago,8,FALSE,8.459
+5eaa1cc384f2ea0f14fef7f2,Uzbekistan,8,FALSE,5.794
+5eaa1cc384f2ea0f14fef688,Bahrain,8,3,2.416
+5eaa1cc384f2ea0f14fef6c4,El Salvador,8,1,7.057
+5eaa1cc384f2ea0f14fef6f6,Guinea,7,FALSE,8.369
+5eaa1cc384f2ea0f14fef717,Jamaica,7,FALSE,7.588
+5eaa1cc384f2ea0f14fef73f,Montenegro,7,FALSE,10.729
+5eaa1cc384f2ea0f14fef71a,Jordan,7,9,3.887
+5eaa1cc384f2ea0f14fef7b4,Sri Lanka,7,1,6.717
+5eaa1cc384f2ea0f14fef68a,Barbados,6,FALSE,9.042
+5eaa1cc384f2ea0f14fef6b4,Congo (Brazzaville),6,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6b7,Costa Rica,6,FALSE,5.122
+5eaa1cc384f2ea0f14fef6e0,Georgia,6,FALSE,12.816
+5eaa1cc384f2ea0f14fef6f9,Haiti,6,FALSE,8.51
+5eaa1cc384f2ea0f14fef7c2,"Taiwan, Republic of China",6,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7c8,Togo,6,FALSE,8.426
+5eaa1cc384f2ea0f14fef743,Myanmar,5,FALSE,8.24
+5eaa1cc384f2ea0f14fef734,Malta,4,FALSE,8.385
+5eaa1cc384f2ea0f14fef73d,Monaco,4,FALSE,FALSE
+5eaa1cc384f2ea0f14fef77b,Sierra Leone,4,FALSE,11.698
+5eaa1cc384f2ea0f14fef7fb,Zimbabwe,4,1,7.983
+5eaa1cc384f2ea0f14fef67d,Antigua and Barbuda,3,FALSE,6.409
+5eaa1cc384f2ea0f14fef6c8,Ethiopia,3,FALSE,6.529
+5eaa1cc384f2ea0f14fef6de,Gabon,3,FALSE,6.822
+5eaa1cc384f2ea0f14fef72e,Malawi,3,FALSE,6.61
+5eaa1cc384f2ea0f14fef74d,Nicaragua,3,FALSE,5.077
+5eaa1cc384f2ea0f14fef7c1,Syrian Arab Republic (Syria),3,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7fa,Zambia,3,FALSE,6.476
+5eaa1cc384f2ea0f14fef67a,Angola,2,FALSE,8.155
+5eaa1cc384f2ea0f14fef68d,Belize,2,FALSE,4.744
+5eaa1cc384f2ea0f14fef6be,Djibouti,2,FALSE,7.068
+5eaa1cc384f2ea0f14fef727,Libya,2,FALSE,5.1
+5eaa1cc384f2ea0f14fef75a,Palestinian Territory,2,FALSE,FALSE
+5eaa1cc384f2ea0f14fef68e,Benin,1,FALSE,8.809
+5eaa1cc384f2ea0f14fef693,Botswana,1,FALSE,5.825
+5eaa1cc384f2ea0f14fef698,Brunei Darussalam,1,FALSE,FALSE
+5eaa1cc384f2ea0f14fef69b,Burundi,1,FALSE,7.888
+5eaa1cc384f2ea0f14fef6a6,Cape Verde,1,FALSE,5.611
+5eaa1cc384f2ea0f14fef6c5,Equatorial Guinea,1,FALSE,9.235
+5eaa1cc384f2ea0f14fef6df,Gambia,1,FALSE,7.817
+5eaa1cc384f2ea0f14fef6f7,Guinea-Bissau,1,FALSE,9.557
+5eaa1cc384f2ea0f14fef728,Liechtenstein,1,FALSE,FALSE
+5eaa1cc384f2ea0f14fef737,Mauritania,1,FALSE,7.186
+5eaa1cc384f2ea0f14fef7bc,Suriname,1,FALSE,7.377
+5eaa1cc384f2ea0f14fef7be,Swaziland,1,FALSE,FALSE
+5eaa1cc384f2ea0f14fef640,American Samoa,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef67b,Anguilla,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef680,Aruba,0,FALSE,9.135
+5eaa1cc384f2ea0f14fef68f,Bermuda,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef690,Bhutan,0,FALSE,6.265
+5eaa1cc384f2ea0f14fef694,Bouvet Island,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef696,British Indian Ocean Territory,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef697,British Virgin Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef69c,Cambodia,0,FALSE,6.019
+5eaa1cc384f2ea0f14fef6a7,Cayman Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6a8,Central African Republic,0,FALSE,12.178
+5eaa1cc384f2ea0f14fef6a9,Chad,0,FALSE,12.045
+5eaa1cc384f2ea0f14fef6ae,Christmas Island,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6af,Cocos (Keeling) Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6b3,Comoros,0,FALSE,7.198
+5eaa1cc384f2ea0f14fef6b6,Cook Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6bf,Dominica,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6c6,Eritrea,0,FALSE,7.108
+5eaa1cc384f2ea0f14fef6c9,Falkland Islands (Malvinas),0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6ca,Faroe Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6cb,Fiji,0,FALSE,8.229
+5eaa1cc384f2ea0f14fef6db,French Guiana,0,FALSE,2.956
+5eaa1cc384f2ea0f14fef6dc,French Polynesia,0,FALSE,5.7
+5eaa1cc384f2ea0f14fef6dd,French Southern Territories,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6ee,Gibraltar,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6f0,Greenland,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6f1,Grenada,0,FALSE,9.547
+5eaa1cc384f2ea0f14fef6f2,Guadeloupe,0,FALSE,8.31
+5eaa1cc384f2ea0f14fef6f3,Guam,0,FALSE,5.249
+5eaa1cc384f2ea0f14fef6f5,Guernsey,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6fa,Heard and Mcdonald Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6fb,Holy See (Vatican City State),0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef6fd,"Hong Kong, SAR China",0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef712,Isle of Man,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef719,Jersey,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef71d,Kiribati,0,FALSE,6.32
+5eaa1cc384f2ea0f14fef71e,Korea (North),0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef722,Lao PDR,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef725,Lesotho,0,FALSE,14.144
+5eaa1cc384f2ea0f14fef72b,"Macao, SAR China",0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef72d,Madagascar,0,FALSE,6.017
+5eaa1cc384f2ea0f14fef732,Maldives,0,FALSE,2.821
+5eaa1cc384f2ea0f14fef735,Marshall Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef736,Martinique,0,FALSE,9.2
+5eaa1cc384f2ea0f14fef739,Mayotte,0,FALSE,2.71
+5eaa1cc384f2ea0f14fef73b,"Micronesia, Federated States of",0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef73e,Mongolia,0,FALSE,6.351
+5eaa1cc384f2ea0f14fef740,Montserrat,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef742,Mozambique,0,FALSE,8.42
+5eaa1cc384f2ea0f14fef744,Namibia,0,FALSE,8.063
+5eaa1cc384f2ea0f14fef745,Nauru,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef746,Nepal,0,FALSE,6.358
+5eaa1cc384f2ea0f14fef74a,Netherlands Antilles,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef74b,New Caledonia,0,FALSE,5.807
+5eaa1cc384f2ea0f14fef750,Niue,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef751,Norfolk Island,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef752,Northern Mariana Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef759,Palau,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef75c,Papua New Guinea,0,FALSE,7.408
+5eaa1cc384f2ea0f14fef760,Pitcairn,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef765,Puerto Rico,0,FALSE,9.54
+5eaa1cc384f2ea0f14fef76b,Réunion,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef76c,Saint Helena,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef76d,Saint Kitts and Nevis,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef76e,Saint Lucia,0,FALSE,7.229
+5eaa1cc384f2ea0f14fef76f,Saint Pierre and Miquelon,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef770,Saint Vincent and Grenadines,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef771,Saint-Barthélemy,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef772,Saint-Martin (French part),0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef773,Samoa,0,FALSE,5.236
+5eaa1cc384f2ea0f14fef775,Sao Tome and Principe,0,FALSE,4.819
+5eaa1cc384f2ea0f14fef77a,Seychelles,0,FALSE,7.853
+5eaa1cc384f2ea0f14fef781,Solomon Islands,0,FALSE,4.255
+5eaa1cc384f2ea0f14fef786,South Georgia and the South Sandwich Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef787,South Sudan,0,FALSE,10.43
+5eaa1cc384f2ea0f14fef7bd,Svalbard and Jan Mayen Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7c3,Tajikistan,0,FALSE,4.836
+5eaa1cc384f2ea0f14fef7c7,Timor-Leste,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7c9,Tokelau,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7ca,Tonga,0,FALSE,7.128
+5eaa1cc384f2ea0f14fef7d2,Turkmenistan,0,FALSE,7.06
+5eaa1cc384f2ea0f14fef7d3,Turks and Caicos Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7d4,Tuvalu,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7d5,US Minor Outlying Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7d6,Uganda,0,FALSE,6.527
+5eaa1cc384f2ea0f14fef7f3,Vanuatu,0,FALSE,5.236
+5eaa1cc384f2ea0f14fef7f5,Viet Nam,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7f6,"Virgin Islands, US",0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7f7,Wallis and Futuna Islands,0,FALSE,FALSE
+5eaa1cc384f2ea0f14fef7f8,Western Sahara,0,FALSE,4.936
+5eaa1cc384f2ea0f14fef7f9,Yemen,0,FALSE,5.991
+5eaa1cc384f2ea0f14fef67c,Antarctica,0,5,FALSE
+5eaa1cc384f2ea0f14fef76a,Rwanda,0,1,5.235
