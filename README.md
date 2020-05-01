@@ -1,5 +1,9 @@
 # ETL---COVID-19_TWITTER_ANALYSIS
 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/narayanan-nithya/ETL---COVID-19_TWITTER_ANALYSIS/blob/master/globe-covid19-scaled.jpeg">
+</p>
+https://github.com/narayanan-nithya/ETL---COVID-19_TWITTER_ANALYSIS/blob/master/globe-covid19-scaled.jpeg
 ## Final Report
 
 The sources that we extracted data from were:
