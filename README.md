@@ -20,5 +20,5 @@ The final collections we used in the production database are the countries with 
 
 Based on the top 5 severely affected countries by COVID-19, we found that the number of deaths does not correlate to the twitter activity of the population in that country (tweets related to COVID-19). In fact, we noticed that in countries with highrer COVID-19 related deaths, the tweets were relatiovely less compared to the countries that had lower number of deaths. This shows that countries less severely affected are the ones that are most anxious about the pandemic. Countries that are most affected don't want to talk about it socially. 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/narayanan-nithya/ETL---COVID-19_TWITTER_ANALYSIS/blob/master/covid_twitter_plot.png">
+  <img width="500" height="500" src="https://github.com/narayanan-nithya/ETL---COVID-19_TWITTER_ANALYSIS/blob/master/covid_twitter_plot.png">
 </p>
